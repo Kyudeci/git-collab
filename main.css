@@ -1,4 +1,17 @@
+#about {
+  text-align: center;
+  margin: auto;
+}
 
+#p1 {
+  text-align: center;
+  margin: auto;
+}
+
+#whoarewe {
+  text-align: center;
+  margin: auto;
+}
 .nav_bar{
 background-color:DodgerBlue;
 width: 100%;
